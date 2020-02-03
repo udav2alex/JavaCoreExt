@@ -1,4 +1,4 @@
-package homework2;
+package homework2.my_exceptions;
 
 import homework2.my_exceptions.MyArrayDataException;
 import homework2.my_exceptions.MyArraySizeException;
